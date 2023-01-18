@@ -7,3 +7,7 @@ Just download the file from this GitHub page,
 open CMD, and type [python main.py]
 
 ping values vary, so please run this script several times and then determine the average by yourself.
+
+The IP address is the official RackNerd sample IP address.👇
+
+https://lg-lax02.racknerd.com/
